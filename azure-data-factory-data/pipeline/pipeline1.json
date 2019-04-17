@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "jt-databricks-pipeline-01",
+				"name": "jt-databricks-workspace-01",
 				"description": "The first attempt",
 				"type": "DatabricksNotebook",
 				"policy": {
