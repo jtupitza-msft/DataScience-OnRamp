@@ -4,7 +4,7 @@
 		"description": "Evoke a Databrick Notebook",
 		"activities": [
 			{
-				"name": "jt-databricks-workspace-01",
+				"name": "jt-databrick-workspace",
 				"description": "The first attempt",
 				"type": "DatabricksNotebook",
 				"policy": {
