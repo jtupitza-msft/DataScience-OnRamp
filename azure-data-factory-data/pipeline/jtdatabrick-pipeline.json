@@ -1,6 +1,7 @@
 {
-	"name": "pipeline1",
+	"name": "jtdatabrick-pipeline",
 	"properties": {
+		"description": "Evoke a Databrick Notebook",
 		"activities": [
 			{
 				"name": "jt-databricks-workspace-01",
